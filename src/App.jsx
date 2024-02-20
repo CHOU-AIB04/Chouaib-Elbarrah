@@ -16,11 +16,11 @@ function App() {
     <Header />  
     <Navbar />
     <Routes>
-      <Route index element={<Home />} />
-      <Route path='/About' element={<About />} />
-      <Route path='/Skils' element={<Skills />} />
-      <Route path='/Work' element={<Work />} />
-      <Route path='/Contact' element={<Contact />} />
+      <Route path='/Chouaib-Elbarrah/' element={<Home />} />
+      <Route path='/Chouaib-Elbarrah/About' element={<About />} />
+      <Route path='/Chouaib-Elbarrah/Skils' element={<Skills />} />
+      <Route path='/Chouaib-Elbarrah/Work' element={<Work />} />
+      <Route path='/Chouaib-Elbarrah/Contact' element={<Contact />} />
     </Routes>
     </Router>
 
