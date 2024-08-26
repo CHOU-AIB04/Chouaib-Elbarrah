@@ -13,7 +13,7 @@ body{
   overflow-x: hidden;
 }
 .color{
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.3);
 }
 .color2{
   background-color: rgba(83, 83, 83, 0.342);
@@ -68,4 +68,7 @@ body{
 }
 .sh{
   box-shadow: 0 0 10px brown;
+}
+.bg{
+  background-color: rgba(105, 16, 16, 0.7);
 }
