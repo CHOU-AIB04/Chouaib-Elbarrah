@@ -15,7 +15,7 @@ const Work = () => {
   return (
     <>
      <section className='w-[80%] h-auto relative top-36 left-1/2 -translate-x-1/2 flex flex-col items-center gap-4'>
-      <h1 className='text-[30px] text-white font-bold'>MY <span className='text-red-700'>WORKS.</span></h1>
+      <h1 className='text-[30px] text-white font-bold'>MY <span className='text-red-700'>PROJECTS.</span></h1>
       <section className='h-[90%] w-full grid grid-cols-1 gap-4 md:grid-cols-2 tablet:grid-cols-3'>
         {
           Data.map(function(e,index){
